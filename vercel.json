@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://aibaimusic.vercel.app//:match*"
+    }
+  ]
+}
